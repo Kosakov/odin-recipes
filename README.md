@@ -1,1 +1,1 @@
-This is an training project from the foundations chapter of The Odin Project curriculum.
+This is a training project from the foundations chapter of The Odin Project curriculum.
